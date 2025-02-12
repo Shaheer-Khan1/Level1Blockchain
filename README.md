@@ -1,6 +1,6 @@
 # IPFS-Based P2P Blockchain System
 
-## Introduction
+#Introduction
 This project is a decentralized blockchain system that leverages IPFS for data storage and a peer-to-peer (P2P) network for transaction propagation and block mining. It ensures deterministic execution of algorithms and maintains a secure, distributed ledger across network nodes.
 
 ## Features
